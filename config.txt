@@ -1,0 +1,4 @@
+Input video file path: /tomas128_ultrashort.mov
+Output figures file path: /submission_plots/test_plots
+Min heart rate (int or float): 40.0
+Max heart rate (int or float): 240.0
